@@ -1,11 +1,11 @@
 ## Nisrina's Project Portfolio 
 
 Hello! 👋 Welcome to my Data Analyst Portfolio!
-This repository is a collection of my projects, showcasing my skills and passion for data analysis, visualization, and storytelling. Whether it’s uncovering insights, creating interactive dashboards, or finding meaningful trends in data, I love turning raw data into something impactful and easy to understand.
+This repository is one of my portfolio project, showcasing my skills and passion for data analysis, visualization, and storytelling. Whether it’s uncovering insights, creating interactive dashboards, or finding meaningful trends in data, I love turning raw data into something impactful and easy to understand.
 
 ## Projects Overview
 
-### [1. Netflix Movie Analysis](Project_1_Movie_Analysis)
+### [Analysis of Movie and TV show Trends on Netflix]
 - **Objective**: Analyze trends and patterns in Netflix's movie and TV show catalog. This dashboard is designed to analyze trends in movies and TV shows based on various parameters such as content type, genre, regional distribution, and age classifications. The visualizations help users understand global content production patterns and preferences.
 - **Tools**: Excel, Power BI.
 - **Highlights**:
